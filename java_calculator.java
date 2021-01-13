@@ -17,7 +17,7 @@ public class Main {
 
     switch (operator) {
       case '+':
-        result = first + second;
+        result = first % second;
         break;
 
       case '-':
